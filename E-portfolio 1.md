@@ -23,6 +23,6 @@ This scholarly article helped me recognize that business process modelling shoul
 
 Klessascheck, F., Weber, I. and Pufahl, L. (2025) ‘SOPA: a framework for sustainability-oriented process analysis and re-design in business process management’, *Information Systems and e-Business Management*, 23, pp. 489–537. https://doi.org/10.1007/s10257-024-00695-x 
 
-Fettke, P. and Di Francescomarino, C. (2025) ‘Business Process Management and Artificial Intelligence: Literature Survey and Future Research’, *KI - Künstliche Intelligenz*, 39, pp. 67–79. https://doi:10.1007/s13218-025-00891-y.
+Fettke, P. and Di Francescomarino, C. (2025) ‘Business Process Management and Artificial Intelligence: Literature Survey and Future Research’, *KI - Künstliche Intelligenz*, 39, pp. 67–79. https://doi:10.1007/s13218-025-00891-y
 
 Poss, L. and Schönig, S. (2025) ‘Formalizing the operational perspective in BPM: an ontology-based approach for tool integration’, *Business Process Management Journal*, 32(2), pp. 679–709. doi:10.1108/BPMJ-10-2024-0930.
