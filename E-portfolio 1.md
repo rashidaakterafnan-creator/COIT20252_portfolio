@@ -19,6 +19,6 @@ This article helped me understand that business process analysis can be used to 
 
 
 
-**Harvard reference** 
+**HARVARD REFERENCE** 
 
 Klessascheck, F., Weber, I. and Pufahl, L. (2025) ‘SOPA: a framework for sustainability-oriented process analysis and re-design in business process management’, *Information Systems and e-Business Management*, 23, pp. 489–537. https://doi.org/10.1007/s10257-024-00695-x
