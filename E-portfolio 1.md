@@ -9,7 +9,7 @@ This article helped me understand that business process analysis can be used to 
 
 **ARTEFACT 2**
 
-**‘Business Process Management and Artificial Intelligence: Literature Survey and Future Research’ - Fettke, P. and Di Francescomarino, C. (2025)**
+**"Business Process Management and Artificial Intelligence: Literature Survey and Future Research" - Fettke, P. and Di Francescomarino, C. (2025)**
 
 From this article i have understand how process analysis fits within the wider Business Process Management (BPM) lifecycle. I learned that process analysis aims to identify weaknesses and problems in business processes and understand how these issues affect overall process performance. The authors explain that qualitative and quantitative analysis, as well as simulation, can be used to identify these problems (Fettke and Di Francescomarino, 2025, p. 69). This artefact demonstrates my learning because it connects process analysis with practical methods for identifying areas that require improvement. I selected this article because it also shows how BPM is increasingly connected with Artificial Intelligence, providing a contemporary perspective on process improvement (Fettke and Di Francescomarino, 2025, pp. 67–68). This is meaningful evidence of my BPM understanding because it helped me recognize process analysis as an important stage for identifying weaknesses before redesigning a process.
 
@@ -22,7 +22,7 @@ This scholarly article helped me recognize that business process modelling shoul
 
 **ARTEFACT 4**
 
-**‘Business process management as a continuous enabler for digital innovation – insights from top executives’ - Plattfaut, R. and Grisold, T. (2025)**
+**"Business process management as a continuous enabler for digital innovation – insights from top executives" - Plattfaut, R. and Grisold, T. (2025)**
 
 This publication gave me insight that Business Process Management (BPM) is not only about maintaining efficient processes but can also support continuous digital innovation. I learned that BPM involves designing, modelling, analyzing, improving and enacting business processes to achieve effective and efficient organizational outcomes (Plattfaut and Grisold, 2025, p. 245). The article demonstrates this learning by explaining how organizations can use BPM to remain responsive to opportunities created by digital technologies. I selected this artefact because the researchers identify four dimensions that can enable digital innovation through BPM: organizational structure, culture, IT application portfolio and organizational capabilities (Plattfaut and Grisold, 2025, pp. 244–245). This is meaningful evidence of my BPM understanding because it showed me that process management is not simply about improving existing workflows; it can also help organizations adapt their processes to technological change.
 
