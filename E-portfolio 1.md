@@ -26,7 +26,7 @@ This scholarly article helped me recognize that business process modelling shoul
 
 This publication gave me insight that Business Process Management (BPM) is not only about maintaining efficient processes but can also support continuous digital innovation. I learned that BPM involves designing, modelling, analyzing, improving and enacting business processes to achieve effective and efficient organizational outcomes (Plattfaut and Grisold, 2025, p. 245). The article demonstrates this learning by explaining how organizations can use BPM to remain responsive to opportunities created by digital technologies. I selected this artefact because the researchers identify four dimensions that can enable digital innovation through BPM: organizational structure, culture, IT application portfolio and organizational capabilities (Plattfaut and Grisold, 2025, pp. 244–245). This is meaningful evidence of my BPM understanding because it showed me that process management is not simply about improving existing workflows; it can also help organizations adapt their processes to technological change.
 
---------
+---------
 
 **HARVARD REFERENCE** 
 
