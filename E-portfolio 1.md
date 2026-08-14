@@ -15,6 +15,7 @@ From this article i have understand how process analysis fits within the wider B
 
 
 **ARTEFACT 3** 
+
 **“Formalizing the operational perspective in BPM: an ontology-based approach for tool integration” - Poss, L. and Schönig, S. (2025)**
 
 This scholarly article helped me recognize that business process modelling should represent more than simply the sequence of activities within a process. I learned that operational resources, such as equipment and materials, can also be important for understanding how processes are performed in real organizations. The authors developed an ontology-based approach to formally represent passive resources and integrate them into business process modelling and execution (Poss and Schönig, 2025, p. 679). This artefact demonstrates my learning because it shows how structured representations can improve transparency, resource allocation and process execution. I selected this article because it provides a contemporary approach to extending BPM modelling beyond basic activity flows. It is meaningful evidence of my BPM understanding because it helped me recognize that effective process models.
