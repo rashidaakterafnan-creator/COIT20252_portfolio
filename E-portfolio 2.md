@@ -1,10 +1,10 @@
 
 **ARTEFACT 1** 
 
-**“Improving the Clarity of BPMN Models”** 
+<**“Improving the Clarity of BPMN Models”**>
 Source: Richter, T., Fantinato, M. & Thom, L.H. (2025), Enhancing business process clarity: enabling the development of more understandable BPMN models through prioritized guidelines, Business Process Management Journal.
 
-Why I selected this artefact
+<Why I selected this artefact>
 
 I selected this research article because it directly relates to the importance of creating understandable BPMN models. The article explains that BPMN 2.0.2 provides many modelling possibilities, which can make process models complex. It investigates modelling guidelines that can help process modellers create clearer models. This is relevant to my learning because a process diagram is useful only when the people viewing it can understand the process and its logic.
 
