@@ -2,7 +2,9 @@
 **ARTEFACT 1** 
 
 **Improving the Clarity of BPMN Models**
+
 Source: Richter, T., Fantinato, M. & Thom, L.H. (2025), Enhancing business process clarity: enabling the development of more understandable BPMN models through prioritized guidelines, Business Process Management Journal.
+
 
 Why I selected this artefact:
 
