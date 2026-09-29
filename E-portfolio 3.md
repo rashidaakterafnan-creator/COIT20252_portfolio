@@ -1,10 +1,9 @@
 **ARTEFACT 1** 
 
 **A Systematic Literature Review on Robotic Process Automation Security**  
-Gajjar, N., Rathod, K. and Jani, K. (2022)
+Article- Gajjar, N., Rathod, K. and Jani, K. (2022)
 
-Google Scholar search:
-https://scholar.google.com/scholar?q=A+systematic+literature+review+on+Robotic+Process+Automation+security+Gajjar+Rathod+Jani
+Source link: https://scholar.google.com/scholar?q=A+systematic+literature+review+on+Robotic+Process+Automation+security+Gajjar+Rathod+Jani
 
 Summary of artefact:
 This research article investigates security issues associated with Robotic Process Automation (RPA) adoption in organisations. The study explains that RPA uses software bots to automate repetitive, rule-based business activities but introduces cybersecurity challenges that require proper controls. The article identifies risks such as data exposure, excessive bot permissions and insufficient security governance. It highlights the importance of integrating cybersecurity practices into RPA implementation strategies (Gajjar, Rathod and Jani, 2022, p. 1).
@@ -16,14 +15,10 @@ I selected this artefact because it directly connects RPA implementation with pr
 
 **ARTEFACT 2** 
 
-**RPA Workflow Demonstration Video**  
-Source: YouTube video / demonstration video
+**What is Robotic Process Automation (RPA)**  
+UiPath official, YouTube channel
 
-Artefact detail:
-Title: What is Robotic Process Automation (RPA)?
-Source: UiPath official YouTube channel
-Link:
-https://www.youtube.com/results?search_query=UiPath+What+is+Robotic+Process+Automation
+Source link: https://www.youtube.com/results?search_query=UiPath+What+is+Robotic+Process+Automation
 
 Summary of artefact:
 This video explains the fundamentals of Robotic Process Automation and demonstrates how software robots automate repetitive business activities. It shows examples of tasks such as data entry, information extraction and transferring information between applications. The video provides a practical understanding of how RPA technology interacts with existing systems to improve efficiency and reduce manual processing time.
@@ -35,7 +30,7 @@ This selected artefact has provided a practical demonstration of how RPA operate
 
 **ARTEFACT 3** 
 
-**Microsoft Power Automate – Robotic Process Automation (RPA) Platform**  
+**Robotic Process Automation (RPA) Platform**  
 Microsoft Power Automate- Industry website / digital learning resource
 
 Source link: https://www.microsoft.com/en-us/power-platform/products/power-automate
