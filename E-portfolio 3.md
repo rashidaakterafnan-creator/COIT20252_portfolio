@@ -1,16 +1,16 @@
 **ARTEFACT 1** 
 
-A Systematic Literature Review on Robotic Process Automation Security  
+**A Systematic Literature Review on Robotic Process Automation Security**  
 Gajjar, N., Rathod, K. and Jani, K. (2022)
 
 Google Scholar search:
 https://scholar.google.com/scholar?q=A+systematic+literature+review+on+Robotic+Process+Automation+security+Gajjar+Rathod+Jani
 
 Summary of artefact:
-I selected this research article because it directly relates to the importance of creating understandable BPMN models. The article explains that BPMN 2.0.2 provides many modelling possibilities, which can make process models complex. It investigates modelling guidelines that can help process modellers create clearer models. This is relevant to my learning because a process diagram is useful only when the people viewing it can understand the process and its logic.
+This research article investigates security issues associated with Robotic Process Automation (RPA) adoption in organisations. The study explains that RPA uses software bots to automate repetitive, rule-based business activities but introduces cybersecurity challenges that require proper controls. The article identifies risks such as data exposure, excessive bot permissions and insufficient security governance. It highlights the importance of integrating cybersecurity practices into RPA implementation strategies (Gajjar, Rathod and Jani, 2022, p. 1).
 
 Justification and reflection:
-This artefact helped me understand that creating a BPMN diagram is not simply about placing the correct symbols on a page. The way the symbols and flows are organised can affect how easily the model can be interpreted. I learned that modelling guidelines can help improve the readability and clarity of BPMN models. This will influence my future modelling because I will consider not only whether a diagram is technically correct, but also whether its structure communicates the process clearly to another person. (Richter, Fantinato & Thom, 2025)
+I selected this artefact because it directly connects RPA implementation with process cybersecurity, which is a key focus of this e-portfolio. The article improved my understanding that automation does not remove security risks; instead, organisations must protect automated processes through appropriate controls. This artefact demonstrates my learning about the importance of secure bot management, access restrictions and cybersecurity planning when implementing RPA solutions (Gajjar, Rathod and Jani, 2022, p. 6).
 
 ---
 
@@ -45,7 +45,7 @@ This artefact has taught me that it demonstrates the importance of accuracy and 
 
 **HARVARD REFERENCE**
 
-Richter, T., Fantinato, M. and Thom, L.H. (2025) ‘Enhancing business process clarity: enabling the development of more understandable BPMN models through prioritized guidelines’, Business Process Management Journal. doi: 10.1108/BPMJ-10-2024-0989. link- [https://doi.org/10.1007/s10257-024-00695-x](https://doi.org/10.1108/BPMJ-10-2024-0989)
+Gajjar, N., Rathod, K. and Jani, K. (2022) A Systematic Literature Review on Robotic Process Automation Security. Available at: https://arxiv.org/abs/2212.05544 (Accessed: 29 September 2026).
 
 Nie, J., Muise, C. and Armstrong, V. (2025) BPMN to PDDL: Translating Business Workflows for AI Planning. Available at: https://arxiv.org/abs/2511.18171 (Accessed: 29 September 2026). 
 
