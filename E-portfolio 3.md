@@ -16,30 +16,35 @@ I selected this artefact because it directly connects RPA implementation with pr
 
 **ARTEFACT 2** 
 
-**BPMN-Based Business Process Modelling for AI Planning**
+**RPA Workflow Demonstration Video**  
+Source: YouTube video / demonstration video
 
-Source: Nie, J., Muise, C. and Armstrong, V. (2025), BPMN to PDDL: Translating Business Workflows for AI Planning
-
+Artefact detail:
+Title: What is Robotic Process Automation (RPA)?
+Source: UiPath official YouTube channel
+Link:
+https://www.youtube.com/results?search_query=UiPath+What+is+Robotic+Process+Automation
 
 Summary of artefact:
-This research article investigates the relationship between Business Process Model and Notation (BPMN) and artificial intelligence planning systems. The study presents a method for translating BPMN process diagrams into Planning Domain Definition Language (PDDL) models. It explains how BPMN components, including tasks, events, sequence flows and gateways, can be transformed to support automated analysis and execution of business workflows (Nie, Muise and Armstrong, 2025, p. 1).
+This video explains the fundamentals of Robotic Process Automation and demonstrates how software robots automate repetitive business activities. It shows examples of tasks such as data entry, information extraction and transferring information between applications. The video provides a practical understanding of how RPA technology interacts with existing systems to improve efficiency and reduce manual processing time.
 
 Justification and reflection:
-I selected this artefact because it demonstrates the evolving role of BPMN in modern business process modelling. The article shows that process models are not only used for documentation but can also support automation and intelligent decision-making. Through this artefact, I learned that accurate BPMN modelling creates opportunities for integrating business processes with emerging technologies such as artificial intelligence. This improves my understanding of how BPM supports digital transformation initiatives (Nie, Muise and Armstrong, 2025, p. 2).
+This selected artefact has provided a practical demonstration of how RPA operates in real business environments. Unlike a theoretical explanation, the video visually shows how automation tools perform repetitive tasks and support business process improvement. This artefact helped me understand the relationship between BPM and automation by showing how organisations can redesign processes and increase operational efficiency through digital technologies.
 
 ----
 
 **ARTEFACT 3** 
 
-**Automating Execution and Verification of BPMN+DMN Business Processes**
+**Microsoft Power Automate – Robotic Process Automation (RPA) Platform**  
+Microsoft Power Automate- Industry website / digital learning resource
 
-Source: Della Penna, G. and Melatti, I. (2025), Automating Execution and Verification of BPMN+DMN Business Processes
+Source link: https://www.microsoft.com/en-us/power-platform/products/power-automate
 
 Summary of artefact:
-This research article explores the automation of execution and verification for BPMN and DMN business process models. The study explains that BPMN models are widely used to represent organisational workflows but may contain behavioural errors that are difficult to identify. The authors propose a testing approach that analyses BPMN models and improves confidence in process execution by detecting potential issues before implementation (Della Penna and Melatti, 2025, p. 1).
+This artefact presents Microsoft Power Automate as an RPA platform that enables organisations to automate repetitive business tasks and workflows. The resource explains how organisations can use automated flows, desktop automation and integration capabilities to connect applications and improve business operations. It demonstrates practical applications of RPA, including automating data entry, approvals, notifications and routine administrative processes.
 
 Justification and reflection:
-This artefact has taught me that it demonstrates the importance of accuracy and validation in business process modelling. It extends my understanding that creating a BPMN diagram is not only about representing activities but also ensuring that the model can operate correctly in real organisational environments. This artefact shows how automated verification techniques can improve BPM quality by reducing modelling errors and supporting reliable process implementation (Della Penna and Melatti, 2025, p. 2).
+This artefact was chosen because it demonstrates how RPA technologies are applied in real organisational environments. It provides practical evidence of how automation tools support business process improvement by reducing manual activities and increasing process efficiency. Through reviewing this resource, I developed a better understanding of how BPM concepts such as process optimisation and workflow automation are implemented using modern digital platforms. It also highlights the importance of selecting suitable processes before automation.
 
 ---
 
@@ -47,7 +52,6 @@ This artefact has taught me that it demonstrates the importance of accuracy and 
 
 Gajjar, N., Rathod, K. and Jani, K. (2022) A Systematic Literature Review on Robotic Process Automation Security. Available at: https://arxiv.org/abs/2212.05544 (Accessed: 29 September 2026).
 
-Nie, J., Muise, C. and Armstrong, V. (2025) BPMN to PDDL: Translating Business Workflows for AI Planning. Available at: https://arxiv.org/abs/2511.18171 (Accessed: 29 September 2026). 
+UiPath (2025) What is Robotic Process Automation (RPA)? Available at: https://www.youtube.com/ (Accessed: 29 September 2026).
 
-Della Penna, G. and Melatti, I. (2025) Automating Execution and Verification of BPMN+DMN Business Processes. Available at: https://arxiv.org/abs/2512.15214 (Accessed: 29 September 2026).
-
+Microsoft (2025) Power Automate: Robotic Process Automation. Available at: https://www.microsoft.com/en-us/power-platform/products/power-automate (Accessed: 29 September 2026).
