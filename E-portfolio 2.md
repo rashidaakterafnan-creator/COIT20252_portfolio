@@ -27,6 +27,8 @@ This research article investigates the relationship between Business Process Mod
 Justification and reflection:
 I selected this artefact because it demonstrates the evolving role of BPMN in modern business process modelling. The article shows that process models are not only used for documentation but can also support automation and intelligent decision-making. Through this artefact, I learned that accurate BPMN modelling creates opportunities for integrating business processes with emerging technologies such as artificial intelligence. This improves my understanding of how BPM supports digital transformation initiatives (Nie, Muise and Armstrong, 2025, p. 2).
 
+----
+
 **ARTEFACT 3** 
 
 **Automating Execution and Verification of BPMN+DMN Business Processes**
