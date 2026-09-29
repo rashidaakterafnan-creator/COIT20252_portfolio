@@ -41,6 +41,7 @@ This research article explores the automation of execution and verification for 
 Justification and reflection:
 This artefact has taught me that it demonstrates the importance of accuracy and validation in business process modelling. It extends my understanding that creating a BPMN diagram is not only about representing activities but also ensuring that the model can operate correctly in real organisational environments. This artefact shows how automated verification techniques can improve BPM quality by reducing modelling errors and supporting reliable process implementation (Della Penna and Melatti, 2025, p. 2).
 
+---
 
 **HARVARD REFERENCE**
 
